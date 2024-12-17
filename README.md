@@ -1,5 +1,5 @@
 
-Digital Communications I Lab - NTUA Class 2020-2021
+Digital Communications I Lab - NTUA Course 2020-2021
 
 This repository containts all lab exercises of the semester along with my MATLAB codes.
 
